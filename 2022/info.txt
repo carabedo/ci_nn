@@ -1,0 +1,2 @@
+ei2,patron aluminio
+ei3,patrones conductividad
